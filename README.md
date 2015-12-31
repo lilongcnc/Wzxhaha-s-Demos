@@ -21,7 +21,6 @@
   *   [whiteStyleAlert](https://github.com/Wzxhaha/whiteStyleAlert)[简洁的自定义Alert]
   *   [hideNavWhenScroll](https://github.com/Wzxhaha/hideNavWhenScroll)[随滑动隐藏导航栏]
   *   [Barrage-cn-TanMu-](https://github.com/Wzxhaha/Barrage-cn-TanMu-)[弹幕]
-*  ImitateQQ
 
 ## PS
 > If you have any questions or suggest ,Welcome to send mail to 18516312500@163.com！
