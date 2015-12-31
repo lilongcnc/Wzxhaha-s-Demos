@@ -4,7 +4,7 @@
 > 这是一个Wzxhaha的Demo合集
 
 ##  Demos
-*   [Object-C](#donethumbsup)
+*   Object-C
   *   [WZXManyBlockDemo](https://github.com/Wzxhaha/WZXManyBlockDemo)[多重block的运用]
   *   [WZXTextfieldAnimation](https://github.com/Wzxhaha/WZXTextfieldAnimation)[Textfield animation]
   *   [WZXGitHubIcon](https://github.com/Wzxhaha/WZXGitHubIcon)[Create GitHubIcon Demo]
@@ -21,7 +21,7 @@
   *   [whiteStyleAlert](https://github.com/Wzxhaha/whiteStyleAlert)[简洁的自定义Alert]
   *   [hideNavWhenScroll](https://github.com/Wzxhaha/hideNavWhenScroll)[随滑动隐藏导航栏]
   *   [Barrage-cn-TanMu-](https://github.com/Wzxhaha/Barrage-cn-TanMu-)[弹幕]
-*  [ImitateQQ]
+*  ImitateQQ
 
 ## PS
 > If you have any questions or suggest ,Welcome to send mail to 18516312500@163.com！
