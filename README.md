@@ -5,22 +5,22 @@
 
 ##  Demos
 *   [Object-C](#donethumbsup)
-  *   [WZXManyBlockDemo  多重block的运用](https://github.com/Wzxhaha/WZXManyBlockDemo)
-  *   [WZXTextfieldAnimation  Textfield Animation](https://github.com/Wzxhaha/WZXTextfieldAnimation)
-  *   [WZXGitHubIcon Create GitHubIcon Demo](https://github.com/Wzxhaha/WZXGitHubIcon)
-  *   [WZXRoundView 代码简洁的饼状图](https://github.com/Wzxhaha/WZXRoundView)
-  *   [WZXRoundPan 游戏的圆形托盘](https://github.com/Wzxhaha/WZXRoundPan)
-  *   [WZXAdjustCellDemo Cell高度自适应](https://github.com/Wzxhaha/WZXAdjustCellDemo)
-  *   [WZXQRcode 二维码](https://github.com/Wzxhaha/WZXQRcode)
-  *   [NSLayoutConstraintSimpleDemo NSLayoutDemo](https://github.com/Wzxhaha/NSLayoutConstraintSimpleDemo)
-  *   [imitate-Facebook-login 仿Facebook登陆动画](https://github.com/Wzxhaha/imitate-Facebook-login)
-  *   [cellAnimation Cell动画](https://github.com/Wzxhaha/cellAnimation)
-  *   [simpleSceneKit3D SceneKit动画](https://github.com/Wzxhaha/simpleSceneKit3D)
-  *   [WZXScrollChangeTextColor 视觉差改变TextColor](https://github.com/Wzxhaha/WZXScrollChangeTextColor)
-  *   [Taketurns 无缝轮播](https://github.com/Wzxhaha/Taketurns)
-  *   [whiteStyleAlert 自定义Alert](https://github.com/Wzxhaha/whiteStyleAlert)
-  *   [hideNavWhenScroll 随滑动隐藏导航栏](https://github.com/Wzxhaha/hideNavWhenScroll)
-  *   [Barrage-cn-TanMu- 弹幕](https://github.com/Wzxhaha/Barrage-cn-TanMu-)
+  *   [WZXManyBlockDemo](https://github.com/Wzxhaha/WZXManyBlockDemo)[多重block的运用]
+  *   [WZXTextfieldAnimation](https://github.com/Wzxhaha/WZXTextfieldAnimation)[Textfield animation]
+  *   [WZXGitHubIcon](https://github.com/Wzxhaha/WZXGitHubIcon)[Create GitHubIcon Demo]
+  *   [WZXRoundView](https://github.com/Wzxhaha/WZXRoundView)[代码简洁的饼状图]
+  *   [WZXRoundPan](https://github.com/Wzxhaha/WZXRoundPan)[游戏的圆形托盘]
+  *   [WZXAdjustCellDemo](https://github.com/Wzxhaha/WZXAdjustCellDemo)[Cell高度自适应]
+  *   [WZXQRcode](https://github.com/Wzxhaha/WZXQRcode)[二维码]
+  *   [NSLayoutConstraintSimpleDemo](https://github.com/Wzxhaha/NSLayoutConstraintSimpleDemo)[约束Demo]
+  *   [imitate-Facebook-login](https://github.com/Wzxhaha/imitate-Facebook-login)[仿Facebook登陆动画]
+  *   [cellAnimation](https://github.com/Wzxhaha/cellAnimation)[自定义Cell动画]
+  *   [simpleSceneKit3D](https://github.com/Wzxhaha/simpleSceneKit3D)[SceneKit动画]
+  *   [WZXScrollChangeTextColor](https://github.com/Wzxhaha/WZXScrollChangeTextColor)[视觉差改变TextColor]
+  *   [Taketurns](https://github.com/Wzxhaha/Taketurns)[无缝轮播]
+  *   [whiteStyleAlert](https://github.com/Wzxhaha/whiteStyleAlert)[一个简介的自定义Alert]
+  *   [hideNavWhenScroll](https://github.com/Wzxhaha/hideNavWhenScroll)[随滑动隐藏导航栏]
+  *   [Barrage-cn-TanMu-](https://github.com/Wzxhaha/Barrage-cn-TanMu-)[弹幕]
 
 
 ## PS
