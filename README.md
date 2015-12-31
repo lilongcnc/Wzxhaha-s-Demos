@@ -18,7 +18,7 @@
   *   [simpleSceneKit3D](https://github.com/Wzxhaha/simpleSceneKit3D)[SceneKit动画]
   *   [WZXScrollChangeTextColor](https://github.com/Wzxhaha/WZXScrollChangeTextColor)[视觉差改变TextColor]
   *   [Taketurns](https://github.com/Wzxhaha/Taketurns)[无缝轮播]
-  *   [whiteStyleAlert](https://github.com/Wzxhaha/whiteStyleAlert)[一个简介的自定义Alert]
+  *   [whiteStyleAlert](https://github.com/Wzxhaha/whiteStyleAlert)[简洁的自定义Alert]
   *   [hideNavWhenScroll](https://github.com/Wzxhaha/hideNavWhenScroll)[随滑动隐藏导航栏]
   *   [Barrage-cn-TanMu-](https://github.com/Wzxhaha/Barrage-cn-TanMu-)[弹幕]
 
