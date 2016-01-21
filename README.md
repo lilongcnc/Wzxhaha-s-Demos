@@ -5,6 +5,7 @@
 
 ##  Demos
 *   Object-C
+  *   [WZXJianShuPopDemo](https://github.com/Wzxhaha/WZXJianShuPopDemo)[仿简书、淘宝等等的View弹出效果，已封装好，使用简单]
   *   [WZXLOLCardView](https://github.com/Wzxhaha/WZXLOLCardView)[用自定义CollectionViewFlowLayout来实现的LOL皮肤选择效果]
   *   [WZXNavAnimationDemo](https://github.com/Wzxhaha/WZXNavAnimationDemo)[仿美国国家地理弹出动画]
   *   [WZXQQGroupDemo](https://github.com/Wzxhaha/WZXQQGroupDemo)[仿QQ分组]
@@ -18,7 +19,6 @@
   *   [WZXQRcode](https://github.com/Wzxhaha/WZXQRcode)[二维码]
   *   [NSLayoutConstraintSimpleDemo](https://github.com/Wzxhaha/NSLayoutConstraintSimpleDemo)[约束Demo]
   *   [imitate-Facebook-login](https://github.com/Wzxhaha/imitate-Facebook-login)[仿Facebook登陆动画]
-  *   [cellAnimation](https://github.com/Wzxhaha/cellAnimation)[自定义Cell动画]
   *   [simpleSceneKit3D](https://github.com/Wzxhaha/simpleSceneKit3D)[SceneKit动画]
   *   [WZXScrollChangeTextColor](https://github.com/Wzxhaha/WZXScrollChangeTextColor)[视觉差改变TextColor]
   *   [Taketurns](https://github.com/Wzxhaha/Taketurns)[无缝轮播]
