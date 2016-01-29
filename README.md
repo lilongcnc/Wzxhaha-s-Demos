@@ -6,7 +6,7 @@
 
 ## 开源项目
 
-*  [WWeChat](https://github.com/Wzxhaha/WWeChat)(仿微信，持续更新直至完成)
+*  [WWeChat](https://github.com/Wzxhaha/WWeChat) (仿微信，持续更新直至完成)
 
 ##  Demos
 *   Object-C
